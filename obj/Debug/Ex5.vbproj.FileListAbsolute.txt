@@ -1,0 +1,11 @@
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.exe.config
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.vbprojResolveAssemblyReference.cache
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.Form1.resources
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.Resources.resources
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.vbproj.GenerateResource.Cache
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.xml
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.exe
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.pdb
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\bin\Debug\Ex5.xml
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.exe
+c:\users\francisc\documents\visual studio 2015\Projects\Ex5\Ex5\obj\Debug\Ex5.pdb
